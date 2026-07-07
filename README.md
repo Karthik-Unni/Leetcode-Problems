@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Karthik-Unni/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0283-move-zeroes](https://github.com/Karthik-Unni/Leetcode-Problems/tree/master/0283-move-zeroes) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -28,4 +29,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Karthik-Unni/Leetcode-Problems/tree/master/0169-majority-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Karthik-Unni/Leetcode-Problems/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
