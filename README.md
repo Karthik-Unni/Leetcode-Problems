@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Karthik-Unni/Leetcode-Problems/tree/master/0242-valid-anagram) |
+| [0844-backspace-string-compare](https://github.com/Karthik-Unni/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
 ## Sorting
 |  |
 | ------- |
@@ -37,5 +38,14 @@
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Karthik-Unni/Leetcode-Problems/tree/master/0283-move-zeroes) |
+| [0844-backspace-string-compare](https://github.com/Karthik-Unni/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/Karthik-Unni/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Karthik-Unni/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Karthik-Unni/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
